@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var numeroCartao = '1234454354';
+console.log(numeroCartao);
+numeroCartao = 123456;
+console.log(numeroCartao);
+var numeros = [1, 1, 4, 6, 7, 8, 8];
+numeros = ["1", "2"];
+var numerosStr = [1, 1, "4", 6, "7", 8, 8];
+var permissao;
